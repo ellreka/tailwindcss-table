@@ -9,7 +9,7 @@ yarn add -D @ellreka/tailwindcss-table
 tailwind.config.js
 
 ```javascript
-plugins: [require('tailwindcss-table')]
+plugins: [require('@ellreka/tailwindcss-table')]
 ```
 
 ## Usage
